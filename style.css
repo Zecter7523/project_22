@@ -1,0 +1,18 @@
+header {
+font-size: 100px;
+
+}
+
+p {
+font-size: 50px;
+}
+
+#first{
+    font-size: 50px;
+    color: blue;
+}
+
+#last{
+    font-size: 50px;
+    color: red;
+}
